@@ -32,7 +32,7 @@ docker pull qzhhhi/rmcs-develop:latest
 克隆仓库，注意需要使用 `recurse-submodules` 以克隆子模块：
 
 ```bash
-git clone --recurse-submodules https://github.com/Alliance-Algorithm/RMCS.git
+git clone --recurse-submodules https://github.com/YuuuuuQingChi/Alliance25-Engineer.git
 ```
 
 在 VSCode 中打开仓库：
